@@ -1,1 +1,1 @@
-The lastest deploy branch was ${GIT_BRANCH}
+<h1>The lastest deploy branch was ${GIT_BRANCH}</h1>
